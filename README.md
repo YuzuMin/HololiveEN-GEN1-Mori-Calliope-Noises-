@@ -22,11 +22,11 @@ GNU General Public License V3
 * morinoise1 I will eat the chicken now
 * morinoise2 I don't like chicken
 * morinoise3 Ninite
-* morinoise4
-* morinoise5
-* morinoise6
-* morinoise7
-* morinoise8
+* morinoise4 *Sleepy Noises*
+* morinoise5 Enough
+* morinoise6 That's a rude thing that you did
+* morinoise7 I like purple
+* morinoise8 Goodnight
 * morinoise9
 * morinoise10
 * morinoise11
