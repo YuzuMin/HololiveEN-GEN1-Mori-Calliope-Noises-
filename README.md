@@ -45,7 +45,7 @@ GNU General Public License V3
 * morinoise24 Fuck your friend
 * morinoise25 Ara Ara
 * morinoise26 Bitch
-* morinoise27
+* morinoise27 Fuck you (sweetly)
 * morinoise28
 * morinoise29
 * morinoise30
