@@ -39,9 +39,9 @@ GNU General Public License V3
 * morinoise18 Geez
 * morinoise19 DAAAAAA!
 * morinoise20 EW STOP!
-* morinoise21
-* morinoise22
-* morinoise23
+* morinoise21 Gross gross
+* morinoise22 Away get away
+* morinoise23 Let me out
 * morinoise24
 * morinoise25
 * morinoise26
