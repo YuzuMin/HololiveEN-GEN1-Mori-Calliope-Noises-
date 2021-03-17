@@ -19,19 +19,19 @@ height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.morinois
 GNU General Public License V3
 
 # List of Noises
-* morinoise1 I will eat the chicken now
-* morinoise2 I don't like chicken
-* morinoise3 Ninite
-* morinoise4 *Sleepy Noises*
-* morinoise5 Enough
-* morinoise6 That's a rude thing that you did
-* morinoise7 I like purple
-* morinoise8 Goodnight
-* morinoise9
-* morinoise10
-* morinoise11
-* morinoise12
-* morinoise13
+* morinoise1  I will eat the chicken now
+* morinoise2  I don't like chicken
+* morinoise3  Ninite
+* morinoise4  *Sleepy Noises*
+* morinoise5  Enough
+* morinoise6  That's a rude thing that you did
+* morinoise7  I like purple
+* morinoise8  Goodnight
+* morinoise9  What?!
+* morinoise10 Smash x6
+* morinoise11 NO
+* morinoise12 Yada
+* morinoise13 *Clearing throat*
 * morinoise14
 * morinoise15
 * morinoise16
