@@ -20,8 +20,8 @@ GNU General Public License V3
 
 # List of Noises
 * morinoise1 I will eat the chicken now
-* morinoise2
-* morinoise3
+* morinoise2 I don't like chicken
+* morinoise3 Ninite
 * morinoise4
 * morinoise5
 * morinoise6
