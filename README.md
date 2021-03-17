@@ -42,9 +42,9 @@ GNU General Public License V3
 * morinoise21 Gross gross
 * morinoise22 Away get away
 * morinoise23 Let me out
-* morinoise24
-* morinoise25
-* morinoise26
+* morinoise24 Fuck your friend
+* morinoise25 Ara Ara
+* morinoise26 Bitch
 * morinoise27
 * morinoise28
 * morinoise29
