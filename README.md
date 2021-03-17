@@ -32,13 +32,13 @@ GNU General Public License V3
 * morinoise11 NO
 * morinoise12 Yada
 * morinoise13 *Clearing throat*
-* morinoise14
-* morinoise15
-* morinoise16
-* morinoise17
-* morinoise18
-* morinoise19
-* morinoise20
+* morinoise14 Hey!
+* morinoise15 Ok
+* morinoise16 UUUUGH
+* morinoise17 What did you do!
+* morinoise18 Geez
+* morinoise19 DAAAAAA!
+* morinoise20 EW STOP!
 * morinoise21
 * morinoise22
 * morinoise23
