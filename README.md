@@ -19,7 +19,7 @@ height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.morinois
 GNU General Public License V3
 
 # List of Noises
-* morinoise1
+* morinoise1 I will eat the chicken now
 * morinoise2
 * morinoise3
 * morinoise4
