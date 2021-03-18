@@ -46,9 +46,9 @@ GNU General Public License V3
 * morinoise25 Ara Ara
 * morinoise26 Bitch
 * morinoise27 Fuck you (sweetly)
-* morinoise28
-* morinoise29
-* morinoise30
+* morinoise28 *Kiara unmute herself*
+* morinoise29 *Kiara calls Calliope mama*
+* morinoise30 
 * morinoise31
 * morinoise32
 * morinoise33
