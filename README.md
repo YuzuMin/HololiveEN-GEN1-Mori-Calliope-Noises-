@@ -50,9 +50,9 @@ GNU General Public License V3
 * morinoise29 *Kiara calls Calliope mama*
 * morinoise30 Peace
 * morinoise31 Deadbeats listen
-* morinoise32
-* morinoise33
-* morinoise34
+* morinoise32 Are you sure about that
+* morinoise33 If you really want I will
+* morinoise34 
 * morinoise35
 * morinoise36
 * morinoise37
