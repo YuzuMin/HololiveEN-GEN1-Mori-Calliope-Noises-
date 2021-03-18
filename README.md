@@ -48,8 +48,8 @@ GNU General Public License V3
 * morinoise27 Fuck you (sweetly)
 * morinoise28 *Kiara unmute herself*
 * morinoise29 *Kiara calls Calliope mama*
-* morinoise30 
-* morinoise31
+* morinoise30 Peace
+* morinoise31 Deadbeats listen
 * morinoise32
 * morinoise33
 * morinoise34
