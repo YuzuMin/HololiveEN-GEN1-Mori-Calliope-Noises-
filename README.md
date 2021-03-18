@@ -1,5 +1,5 @@
 # HololiveEN GEN1 Mori Calliope Noises 
- GitHub Repository for Mori Noises Android App
+ GitHub Repository for Calliope Noises Android App
 
 # Mori Calliope Noises
 Calliope Noises is a clicker app for Android smartphones and tablets that brings entertainment to you by playing noises made by Calliope .
@@ -58,11 +58,11 @@ GNU General Public License V3
 * morinoise37 I'm right here son
 * morinoise38 Now run into me
 * morinoise39 I'm here
-* morinoise40 Thank you
-* morinoise41
-* morinoise42
-* morinoise43
-* morinoise44
+* morinoise40 I would love to
+* morinoise41 Thank you
+* morinoise42 That's horrifying
+* morinoise43 THE FUCK
+* morinoise44 I can take him away
 * morinoise45
 * morinoise46
 * morinoise47
