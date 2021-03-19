@@ -24,7 +24,7 @@ GNU General Public License V3
 * morinoise3  Ninite
 * morinoise4  *Sleepy Noises*
 * morinoise5  Enough
-* morinoise6  That's a rude thing that you did
+* morinoise6  GUH (softly)
 * morinoise7  I like purple
 * morinoise8  Goodnight
 * morinoise9  What?!
@@ -47,14 +47,14 @@ GNU General Public License V3
 * morinoise26 Bitch
 * morinoise27 Fuck you (sweetly)
 * morinoise28 *Kiara unmute herself*
-* morinoise29 *Kiara calls Calliope mama*
+* morinoise29 *Kiara calls Calli mama*
 * morinoise30 Peace
 * morinoise31 Deadbeats listen
 * morinoise32 Are you sure about that
 * morinoise33 If you really want I will
 * morinoise34 UUUUUHHHHH
 * morinoise35 I wonder what we should do
-* morinoise36 Alright I'll start a new one
+* morinoise36 Here we go!
 * morinoise37 I'm right here son
 * morinoise38 Now run into me
 * morinoise39 I'm here
@@ -63,9 +63,9 @@ GNU General Public License V3
 * morinoise42 That's horrifying
 * morinoise43 THE FUCK
 * morinoise44 I can take him away
-* morinoise45
-* morinoise46
-* morinoise47
-* morinoise48
-* morinoise49
-* morinoise50
+* morinoise45 Not your mom
+* morinoise46 Yada
+* morinoise47 Kimoi
+* morinoise48 Yamenasai
+* morinoise49 *Excited Calli*
+* morinoise50 GUH
