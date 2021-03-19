@@ -8,7 +8,7 @@ The interface of Calliope Noises is designed to be simple, intuitive and efficie
 # Download
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
 alt="Get it on Google Play"
-height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.morinoises)
+height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.calliopenoises)
 
 # Features
 * 50 Noises
@@ -19,53 +19,53 @@ height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.morinois
 GNU General Public License V3
 
 # List of Noises
-* morinoise1  I will eat the chicken now
-* morinoise2  I don't like chicken
-* morinoise3  Ninite
-* morinoise4  *Sleepy Noises*
-* morinoise5  Enough
-* morinoise6  GUH (softly)
-* morinoise7  I like purple
-* morinoise8  Goodnight
-* morinoise9  What?!
-* morinoise10 Smash x6
-* morinoise11 NO
-* morinoise12 Yada
-* morinoise13 *Clearing throat*
-* morinoise14 Hey!
-* morinoise15 Ok
-* morinoise16 UUUUGH
-* morinoise17 What did you do!
-* morinoise18 Geez
-* morinoise19 DAAAAAA!
-* morinoise20 EW STOP!
-* morinoise21 Gross gross
-* morinoise22 Away get away
-* morinoise23 Let me out
-* morinoise24 Fuck your friend
-* morinoise25 Ara Ara
-* morinoise26 Bitch
-* morinoise27 Fuck you (sweetly)
-* morinoise28 *Kiara unmute herself*
-* morinoise29 *Kiara calls Calli mama*
-* morinoise30 Peace
-* morinoise31 Deadbeats listen
-* morinoise32 Are you sure about that
-* morinoise33 If you really want I will
-* morinoise34 UUUUUHHHHH
-* morinoise35 Guh (Developer's Choice)
-* morinoise36 Here we go!
-* morinoise37 I'm right here son
-* morinoise38 Now run into me
-* morinoise39 I'm here
-* morinoise40 I would love to
-* morinoise41 Thank you
-* morinoise42 That's horrifying
-* morinoise43 THE FUCK
-* morinoise44 I can take him away
-* morinoise45 Not your mom
-* morinoise46 Yada
-* morinoise47 Kimoi
-* morinoise48 Yamenasai
-* morinoise49 *Excited Calli*
-* morinoise50 GUH
+* calliopenoise1  I will eat the chicken now
+* calliopenoise2  I don't like chicken
+* calliopenoise3  Ninite
+* calliopenoise4  *Sleepy Noises*
+* calliopenoise5  Enough
+* calliopenoise6  GUH (softly)
+* calliopenoise7  I like purple
+* calliopenoise8  Goodnight
+* calliopenoise9  What?!
+* calliopenoise10 Smash x6
+* calliopenoise11 NO
+* calliopenoise12 Yada
+* calliopenoise13 *Clearing throat*
+* calliopenoise14 Hey!
+* calliopenoise15 Ok
+* calliopenoise16 UUUUGH
+* calliopenoise17 What did you do!
+* calliopenoise18 Geez
+* calliopenoise19 DAAAAAA!
+* calliopenoise20 EW STOP!
+* calliopenoise21 Gross gross
+* calliopenoise22 Away get away
+* calliopenoise23 Let me out
+* calliopenoise24 Fuck your friend
+* calliopenoise25 Ara Ara
+* calliopenoise26 Bitch
+* calliopenoise27 Fuck you (sweetly)
+* calliopenoise28 *Kiara unmute herself*
+* calliopenoise29 *Kiara calls Calli mama*
+* calliopenoise30 Peace
+* calliopenoise31 Deadbeats listen
+* calliopenoise32 Are you sure about that
+* calliopenoise33 If you really want I will
+* calliopenoise34 UUUUUHHHHH
+* calliopenoise35 Guh (Developer's Choice)
+* calliopenoise36 Here we go!
+* calliopenoise37 I'm right here son
+* calliopenoise38 Now run into me
+* calliopenoise39 I'm here
+* calliopenoise40 I would love to
+* calliopenoise41 Thank you
+* calliopenoise42 That's horrifying
+* calliopenoise43 THE FUCK
+* calliopenoise44 I can take him away
+* calliopenoise45 Not your mom
+* calliopenoise46 Yada
+* calliopenoise47 Kimoi
+* calliopenoise48 Yamenasai
+* calliopenoise49 *Excited Calli*
+* calliopenoise50 GUH
