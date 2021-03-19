@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Calliope Noises</string>
+    <string name="app_version">2021.3 REV-1</string>
+    <string name="press_vtuber">Press Calliope!</string>
+
+
+    <string name="noise1_text">I will eat the chicken now</string>
+    <string name="noise2_text">I don\'t like chicken</string>
+    <string name="noise3_text">Ninite</string>
+    <string name="noise4_text">*Sleepy Noises*</string>
+    <string name="noise5_text">Enough</string>
+    <string name="noise6_text">GUH (softly)</string>
+    <string name="noise7_text">I like purple</string>
+    <string name="noise8_text">Goodnight</string>
+    <string name="noise9_text">What?!</string>
+    <string name="noise10_text">Smash x6</string>
+    <string name="noise11_text">NO</string>
+    <string name="noise12_text">Yada</string>
+    <string name="noise13_text">*Clearing throat*</string>
+    <string name="noise14_text">Hey!</string>
+    <string name="noise15_text">Ok</string>
+    <string name="noise16_text">UUUUGH</string>
+    <string name="noise17_text">What did you do!</string>
+    <string name="noise18_text">Geez</string>
+    <string name="noise19_text">DAAAAAA!</string>
+    <string name="noise20_text">EW STOP!</string>
+    <string name="noise21_text">Gross gross</string>
+    <string name="noise22_text">Away get away</string>
+    <string name="noise23_text">Let me out</string>
+    <string name="noise24_text">Fuck your friend</string>
+    <string name="noise25_text">Ara Ara</string>
+    <string name="noise26_text">Bitch</string>
+    <string name="noise27_text">Fuck you (sweetly)</string>
+    <string name="noise28_text">*Kiara unmute herself*</string>
+    <string name="noise29_text">*Kiara calls Calli mama*</string>
+    <string name="noise30_text">Peace</string>
+    <string name="noise31_text">Deadbeats listen</string>
+    <string name="noise32_text">Are you sure about that</string>
+    <string name="noise33_text">If you really want I will</string>
+    <string name="noise34_text">UUUUUHHHHH</string>
+    <string name="noise35_text">Guh (Developer\'s Choice)</string>
+    <string name="noise36_text">Here we go!</string>
+    <string name="noise37_text">I\'m right here son</string>
+    <string name="noise38_text">Now run into me</string>
+    <string name="noise39_text">I\'m here</string>
+    <string name="noise40_text">I would love to</string>
+    <string name="noise41_text">Thank you</string>
+    <string name="noise42_text">That\'s horrifying</string>
+    <string name="noise43_text">THE FUCK</string>
+    <string name="noise44_text">I can take him away</string>
+    <string name="noise45_text">Not your mom</string>
+    <string name="noise46_text">Yada</string>
+    <string name="noise47_text">Kimoi</string>
+    <string name="noise48_text">Yamenasai</string>
+    <string name="noise49_text">*Excited Calli*</string>
+    <string name="noise50_text">GUH</string>
+</resources>
