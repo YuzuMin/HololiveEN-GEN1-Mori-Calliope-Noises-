@@ -53,7 +53,7 @@ GNU General Public License V3
 * morinoise32 Are you sure about that
 * morinoise33 If you really want I will
 * morinoise34 UUUUUHHHHH
-* morinoise35 I wonder what we should do
+* morinoise35 Guh (Developer's Choice)
 * morinoise36 Here we go!
 * morinoise37 I'm right here son
 * morinoise38 Now run into me
