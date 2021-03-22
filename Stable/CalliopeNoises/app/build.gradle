@@ -7,8 +7,8 @@ android {
         applicationId "com.yuzumin.calliopenoises"
         minSdkVersion 21
         targetSdkVersion 30
-        versionCode 1
-        versionName "2021.3 REV-1"
+        versionCode 2
+        versionName "2021.3 REV-2"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
