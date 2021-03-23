@@ -4,12 +4,16 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.RadioButton;
 import android.widget.Switch;
 import android.widget.TableRow;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.cardview.widget.CardView;
+
+import static android.view.View.GONE;
+import static android.view.View.VISIBLE;
 
 public class ClickerSettings extends AppCompatActivity {
 
@@ -81,6 +85,8 @@ public class ClickerSettings extends AppCompatActivity {
     Switch switch50;
     Switch switch51;
     Switch switch52;
+
+    LinearLayout SoundSettingContainer;
 
 
 
@@ -764,14 +770,25 @@ public class ClickerSettings extends AppCompatActivity {
                     SoundSettingsEditor.putBoolean("value2",true);
                     SoundSettingsEditor.apply();
                     switch2.setChecked(true);
+                    SoundSettingContainer.setVisibility(VISIBLE);
                 }else{
                     SoundSettingsEditor =getSharedPreferences("save2",MODE_PRIVATE).edit();
                     SoundSettingsEditor.putBoolean("value2",false);
                     SoundSettingsEditor.apply();
                     switch2.setChecked(false);
+                    SoundSettingContainer.setVisibility(GONE);
                 }
             }
         });
+
+
+        SoundSettingContainer=findViewById(R.id.Sound_Settings);
+        SoundSettingContainer.setVisibility(GONE);
+        if(SoundSettings.getBoolean("value2",false)){
+            SoundSettingContainer.setVisibility(VISIBLE);
+        }else{
+            SoundSettingContainer.setVisibility(GONE);
+        }
 
 
         // for switch 3 to activate
