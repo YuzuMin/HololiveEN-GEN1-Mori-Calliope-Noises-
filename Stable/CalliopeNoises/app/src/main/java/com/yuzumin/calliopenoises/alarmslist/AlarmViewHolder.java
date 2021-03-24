@@ -24,19 +24,16 @@ public class AlarmViewHolder extends RecyclerView.ViewHolder {
 
     public AlarmViewHolder(@NonNull View itemView, OnToggleAlarmListener listener) {
         super(itemView);
-
         alarmTime = itemView.findViewById(R.id.item_alarm_time);
         alarmStarted = itemView.findViewById(R.id.item_alarm_started);
         alarmRecurring = itemView.findViewById(R.id.item_alarm_recurring);
         alarmRecurringDays = itemView.findViewById(R.id.item_alarm_recurringDays);
         alarmTitle = itemView.findViewById(R.id.item_alarm_title);
-
         this.listener = listener;
     }
 
     public void bind(Alarm alarm) {
         String alarmText = String.format("%02d:%02d", alarm.getHour(), alarm.getMinute());
-
         alarmTime.setText(alarmText);
         alarmStarted.setChecked(alarm.isStarted());
 
