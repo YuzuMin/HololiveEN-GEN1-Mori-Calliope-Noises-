@@ -27,7 +27,6 @@ public class RingActivity extends AppCompatActivity {
     @BindView(R.id.activity_ring_dismiss) CardView dismiss;
     @BindView(R.id.activity_ring_snooze) CardView snooze;
     @BindView(R.id.activity_ring_clock) ImageView image;
-
     SharedPreferences SavedSettings;
     int charavalue;
 
