@@ -29,7 +29,6 @@ public class AlarmsListFragment extends Fragment implements OnToggleAlarmListene
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
         alarmRecyclerViewAdapter = new AlarmRecyclerViewAdapter(this);
         alarmsListViewModel = ViewModelProviders.of(this).get(AlarmsListViewModel.class);
         alarmsListViewModel.getAlarmsLiveData().observe(this, new Observer<List<Alarm>>() {
@@ -40,8 +39,6 @@ public class AlarmsListFragment extends Fragment implements OnToggleAlarmListene
                 }
             }
         });
-
-
     }
 
 
@@ -49,11 +46,9 @@ public class AlarmsListFragment extends Fragment implements OnToggleAlarmListene
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_listalarms, container, false);
-
         alarmsRecyclerView = view.findViewById(R.id.fragment_listalarms_recylerView);
         alarmsRecyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
         alarmsRecyclerView.setAdapter(alarmRecyclerViewAdapter);
-
         addAlarm = view.findViewById(R.id.fragment_listalarms_addAlarm);
         addAlarm.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -61,7 +56,6 @@ public class AlarmsListFragment extends Fragment implements OnToggleAlarmListene
                 Navigation.findNavController(v).navigate(R.id.action_alarmsListFragment_to_createAlarmFragment);
             }
         });
-
         return view;
     }
 
@@ -76,4 +70,5 @@ public class AlarmsListFragment extends Fragment implements OnToggleAlarmListene
             alarmsListViewModel.update(alarm);
         }
     }
+
 }
