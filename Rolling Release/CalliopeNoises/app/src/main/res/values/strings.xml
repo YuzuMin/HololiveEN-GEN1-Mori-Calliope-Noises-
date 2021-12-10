@@ -1,7 +1,7 @@
 <resources>
     <!--MainActivity-->
     <string name="app_name">Calliope Noises</string>         <!--Needs translations-->
-    <string name="press_vtuber">PressCalliope!</string>     <!--Needs translations-->
+    <string name="press_vtuber">Press Calliope!</string>     <!--Needs translations-->
     <string name="sit_back">Sit Back &amp; Chill</string>
     <!--AppMenu-->
     <string name="version">Version</string>
@@ -99,7 +99,7 @@
     <string name="noise43_text" translatable="false">THE FUCK</string>
     <string name="noise44_text" translatable="false">I can take him away</string>
     <string name="noise45_text" translatable="false">Not your mom</string>
-    <string name="noise46_text" translatable="false">Yada</string>
+    <string name="noise46_text" translatable="false">Yada (2nd variant)</string>
     <string name="noise47_text" translatable="false">Kimoi</string>
     <string name="noise48_text" translatable="false">Yamenasai</string>
     <string name="noise49_text" translatable="false">*Excited Calli*</string>
