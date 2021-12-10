@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GIT/VTUBER_NOISES/HololiveEN-GEN1-Mori-Calliope-Noises/Stable/CalliopeNoises/app/src/main/res/layout/activity_alarmmain.xml" value="0.29393115942028986" />
+        <entry key="..\:/GIT/VTUBER_NOISES/HololiveEN-GEN1-Mori-Calliope-Noises/Stable/CalliopeNoises/app/src/main/res/layout/app_menu.xml" value="0.29393115942028986" />
+        <entry key="..\:/GIT/VTUBER_NOISES/HololiveEN-GEN1-Mori-Calliope-Noises/Stable/CalliopeNoises/app/src/main/res/layout/clicker_settings.xml" value="0.29393115942028986" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
