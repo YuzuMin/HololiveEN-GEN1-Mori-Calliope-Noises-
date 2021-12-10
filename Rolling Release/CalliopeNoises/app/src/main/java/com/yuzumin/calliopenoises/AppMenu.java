@@ -194,7 +194,7 @@ public class AppMenu extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent i = new Intent(android.content.Intent.ACTION_VIEW);
-                i.setData(Uri.parse("https://github.com/YuzuMin/IndieVtuberJP-Amatsuka-Uto-Noises/tree/main/Assets"));
+                i.setData(Uri.parse("https://github.com/YuzuMin/HololiveEN-GEN1-Mori-Calliope-Noises-/tree/main/Assets"));
                 startActivity(i);
 
                 /*
