@@ -8,7 +8,7 @@ android {
         minSdkVersion 21
         targetSdkVersion 31
         versionCode 3
-        versionName "2021.11 REV-3"
+        versionName "2021.12 REV-3"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
