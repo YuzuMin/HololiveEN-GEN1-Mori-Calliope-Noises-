@@ -6,9 +6,9 @@ Calliope Noises is a clicker app for Android smartphones and tablets that brings
 The interface of Calliope Noises is designed to be simple, intuitive and efficient. By removing what is not essential, we make access to everything you need even easier.
 
 # Download
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
-alt="Get it on Google Play"
-height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.calliopenoises)
+[<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/github.png"
+alt="Get APK from GitHub"
+height="80">](https://github.com/YuzuMin/HololiveEN-GEN1-Mori-Calliope-Noises-/releases/download/2.0/CalliopeNoises.apk)
 
 # Features
 * 50 Noises
